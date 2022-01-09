@@ -23,3 +23,7 @@ Simple Recipe App using SwiftUI + MVVM
 
 * Swift & SwiftUI
 * ✅ Clean Architecture (MVVM)
+
+Sources:
+- DesignCode: https://www.youtube.com/watch?v=uqkUumqFiF8
+- https://www.forksoverknives.com/vegan-holiday-recipes/
